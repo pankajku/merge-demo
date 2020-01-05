@@ -1,3 +1,3 @@
 # merge-demo
 
-1. Typescript is a superset of Javascript.
+1. TypeScript is a superset of JavaScript.
